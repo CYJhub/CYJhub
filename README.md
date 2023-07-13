@@ -59,7 +59,7 @@
    |2023.03 ~|신촌 연합 IT창업 동아리 [CEOS](https://github.com/CYJhub/django_rest_framework_17th) 17기 BE 개발자|
    |2023.03 ~|신촌 연합 IT창업 동아리 팀 [Hooking](https://github.com/Hooking-CEOS/Hooking_BE) BE 개발자|
    |2023.03 ~|전국 대학생 IT연합 동아리 [잇타](https://github.com/i1ta) 3기 BE 개발자|
-   |2023.03 ~|삼성증권 디지털/IT 학회 프로그램 [디지털기술팀](https://github.com/SAMSUNG-FINANCE/FinanceProject)|
+   |2023.03 ~ 06| 삼성증권 디지털/IT 학회 프로그램 [디지털기술팀](https://github.com/SAMSUNG-FINANCE/FinanceProject)|
 
 
 <!--
