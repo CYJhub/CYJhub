@@ -41,6 +41,12 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
 
+<h3 align="center">🍀Deploy</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
+</p>
+
+
 * * *
 
 * 💞My Career
@@ -51,8 +57,9 @@
    |2022.07 ~ 08|과외 매칭 서비스 [tutorKING](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING) 백엔드|
    |2023.01 ~ 02|영단어 문제지 제작 서비스 [VocaAllday](https://github.com/HICC-Bootcamp/2023-forever-VocaAllda) 백엔드|
    |2023.03 ~|신촌 연합 IT창업 동아리 [CEOS](https://github.com/CYJhub/django_rest_framework_17th) 17기 BE 개발자|
+   |2023.03 ~|신촌 연합 IT창업 동아리 팀 [Hooking](https://github.com/Hooking-CEOS/Hooking_BE) BE 개발자|
    |2023.03 ~|전국 대학생 IT연합 동아리 [잇타](https://github.com/i1ta) 3기 BE 개발자|
-   |2023.03 ~|삼성증권 디지털/IT 학회 프로그램 디지털기술팀|
+   |2023.03 ~|삼성증권 디지털/IT 학회 프로그램 [디지털기술팀](https://github.com/SAMSUNG-FINANCE/FinanceProject)|
 
 
 <!--
