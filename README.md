@@ -60,6 +60,9 @@
   |2023.03 ~ 07|전국 대학생 IT연합 동아리 [잇타](https://github.com/i1ta) 3기 BE 개발자|
    |2023.03 ~ 08|신촌 연합 IT창업 동아리 [CEOS](https://github.com/CYJhub/django_rest_framework_17th) 17기 BE 개발자|
    |2023.03 ~ 08|신촌 연합 IT창업 동아리 팀 [Hooking](https://github.com/Hooking-CEOS/Hooking_BE) BE 개발자|
+   |2023.11| 정보처리기사 취득|
+   |2023.11 ~ 12| 휴맥스 드림버스 컴퍼니 인턴십 참여|
+   |2023.12 ~ 2024.02| 블루솔루션즈 백엔드 인턴|
 
 
 
